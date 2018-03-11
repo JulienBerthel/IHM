@@ -27,7 +27,7 @@ public class CellModel {
     
     /**
      * Constructor
-     * @param  cellType - associated cell type
+     * @param  cel lType - associated cell type
      * @param id - identifier
      */
     public CellModel(CellType cellType, Integer id) {
