@@ -14,7 +14,7 @@ public class CellModel {
     /** Related type */
     private CellType cellType;
     
-    /** Store the asso ciat ed color */
+    /** Store the asso ci       at ed color */
     private final SimpleStringProperty colorProperty;
     	 ///////
     /** Unique identifier */
