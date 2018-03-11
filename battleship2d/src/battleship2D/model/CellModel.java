@@ -16,7 +16,7 @@ public class CellModel {
     
     /** Store the associated color */
     private final SimpleStringProperty colorProperty;
-    
+    	
     /** Unique identifier */
     private Integer id;
     
