@@ -19,7 +19,7 @@ public class CellModel {
     	
     /** Unique identifier */
     private Integer id;
-    //DCDDSSD
+    //DCDDSSDx
     
     /*=========================================================================*/
     /* Public methods                                                          */       
