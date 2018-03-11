@@ -38,7 +38,7 @@ public class CellModel {
     }
     
     /**
-     * Displays informations
+     * Displays in formations
      * @return  a brief description
      */
     public String display() {
