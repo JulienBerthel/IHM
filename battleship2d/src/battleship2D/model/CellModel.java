@@ -39,7 +39,7 @@ public class CellModel {
     
     /**
      * Displays informations
-     * @return a brief description
+     * @return  a brief description
      */
     public String display() {
         return "[" + this.id + " - " + this.cellType.getDescription() + " - " 
